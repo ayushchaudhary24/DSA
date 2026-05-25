@@ -8,9 +8,8 @@ public:
         while(getline(ss,token,'/')){
             if (token=="" || token==".") continue;
             else if(token ==".."){
-                if(st.size()==0) continue;
-                else 
-                 st.pop_back();
+                if(!st.empty()) st.pop_back();
+                
             }
             else st.push_back(token);
         }
