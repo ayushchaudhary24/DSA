@@ -1,0 +1,26 @@
+class Solution {
+public:
+    string simplifyPath(string path) {
+        stringstream ss(path);
+        string token;
+        vector<string> st;
+
+        while(getline(ss,token,'/')){
+            if (token=="" || token==".") continue;
+            else if(token ==".."){
+                if(st.size()==0) continue;
+                else 
+                 st.pop_back();
+            }
+            else st.push_back(token);
+        }
+        string ans = "";
+        for(string word:st){
+            ans = ans+'/'+word;
+            
+        }
+        if (ans=="") ans = "/";
+
+        return ans;
+    }
+};
