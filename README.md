@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
