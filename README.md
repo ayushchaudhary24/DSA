@@ -34,6 +34,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
