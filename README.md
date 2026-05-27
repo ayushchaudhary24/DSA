@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchaudhary24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -59,5 +62,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
