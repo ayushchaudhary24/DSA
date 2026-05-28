@@ -36,6 +36,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
