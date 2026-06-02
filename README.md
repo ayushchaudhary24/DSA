@@ -30,6 +30,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchaudhary24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
@@ -148,6 +149,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -156,6 +158,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -168,6 +171,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
