@@ -17,16 +17,18 @@ public:
         q.push(root);
         if(root==NULL) return ans;
         while(!q.empty()){  
-            vector<int> v;
+            //vector<int> v;
+            int v = 0;
             int n = q.size();
             for(int i=0; i<n;i++){
                 TreeNode* curr = q.front();
                 q.pop();
-                v.push_back(curr->val);
+                //v.push_back(curr->val);
+                if(i==n-1) v = curr->val;
                 if(curr->left) q.push(curr->left);
                 if(curr->right) q.push(curr->right);
             }
-            ans.push_back(v.back());
+            ans.push_back(v);
             
         }
         return ans;
