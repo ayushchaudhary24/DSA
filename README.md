@@ -124,6 +124,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushchaudhary24/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushchaudhary24/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 ## Greedy
@@ -155,6 +156,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushchaudhary24/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ayushchaudhary24/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -198,9 +200,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary24/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushchaudhary24/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ayushchaudhary24/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushchaudhary24/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary24/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
