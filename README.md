@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushchaudhary24/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
