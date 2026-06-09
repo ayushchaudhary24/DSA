@@ -5,7 +5,6 @@ public:
         dp[2] = 1;
         dp[1] = 1;
 
-        if(n<1) return 1;
         for(int i=n-2; i>=0; i--){
             dp[0] = dp[1]+dp[2];
             dp[2] = dp[1];
