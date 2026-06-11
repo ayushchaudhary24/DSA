@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayushchaudhary24/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushchaudhary24/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
