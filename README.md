@@ -28,6 +28,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@
 | [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
