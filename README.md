@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -75,6 +76,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -253,4 +255,8 @@
 | [0070-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
