@@ -28,6 +28,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1035-uncrossed-lines](https://github.com/ayushchaudhary24/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
 ## Stack
@@ -89,6 +90,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/ayushchaudhary24/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
