@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -80,6 +81,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
@@ -148,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/ayushchaudhary24/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushchaudhary24/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
