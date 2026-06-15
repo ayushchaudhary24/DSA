@@ -67,6 +67,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ayushchaudhary24/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ayushchaudhary24/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
@@ -84,6 +85,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushchaudhary24/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ayushchaudhary24/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
