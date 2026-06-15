@@ -32,6 +32,7 @@
 | [1035-uncrossed-lines](https://github.com/ayushchaudhary24/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Recursion
 |  |
 | ------- |
