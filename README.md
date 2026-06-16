@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushchaudhary24/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushchaudhary24/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ayushchaudhary24/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushchaudhary24/DSA/tree/master/0072-edit-distance) |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushchaudhary24/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
