@@ -15,6 +15,7 @@
 | [0064-minimum-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchaudhary24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/ayushchaudhary24/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -94,6 +95,7 @@
 | [0070-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushchaudhary24/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ayushchaudhary24/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
