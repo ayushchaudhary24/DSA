@@ -49,6 +49,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
