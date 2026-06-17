@@ -37,6 +37,7 @@
 | [1035-uncrossed-lines](https://github.com/ayushchaudhary24/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Stack
@@ -121,6 +122,7 @@
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -219,6 +221,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Interactive
 |  |
