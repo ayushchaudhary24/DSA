@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushchaudhary24/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@
 | [0120-triangle](https://github.com/ayushchaudhary24/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -215,6 +217,7 @@
 | [0063-unique-paths-ii](https://github.com/ayushchaudhary24/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Interactive
