@@ -41,6 +41,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushchaudhary24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
 | ------- |
