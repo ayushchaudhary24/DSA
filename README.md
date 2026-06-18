@@ -49,6 +49,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushchaudhary24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushchaudhary24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0283-move-zeroes](https://github.com/ayushchaudhary24/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushchaudhary24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,4 +360,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ayushchaudhary24/DSA/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushchaudhary24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
