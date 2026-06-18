@@ -18,6 +18,7 @@
 | [0120-triangle](https://github.com/ayushchaudhary24/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushchaudhary24/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/ayushchaudhary24/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushchaudhary24/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -316,6 +317,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayushchaudhary24/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 ## Geometry
