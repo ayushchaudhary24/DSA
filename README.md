@@ -20,6 +20,7 @@
 | [0120-triangle](https://github.com/ayushchaudhary24/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushchaudhary24/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushchaudhary24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayushchaudhary24/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -174,6 +175,7 @@
 | [0001-two-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushchaudhary24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushchaudhary24/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushchaudhary24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushchaudhary24/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
