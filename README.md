@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/ayushchaudhary24/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushchaudhary24/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -72,6 +73,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushchaudhary24/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ayushchaudhary24/DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -143,6 +145,7 @@
 | [0015-3sum](https://github.com/ayushchaudhary24/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
@@ -164,6 +167,7 @@
 | [0049-group-anagrams](https://github.com/ayushchaudhary24/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -206,6 +210,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushchaudhary24/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushchaudhary24/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -311,6 +316,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
