@@ -44,6 +44,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ayushchaudhary24/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
@@ -245,6 +246,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ayushchaudhary24/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushchaudhary24/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
