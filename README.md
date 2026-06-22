@@ -74,6 +74,7 @@
 | [0224-basic-calculator](https://github.com/ayushchaudhary24/DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushchaudhary24/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchaudhary24/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
