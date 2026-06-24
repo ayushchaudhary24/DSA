@@ -49,6 +49,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -205,6 +207,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushchaudhary24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
