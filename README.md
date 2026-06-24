@@ -56,6 +56,7 @@
 | [1035-uncrossed-lines](https://github.com/ayushchaudhary24/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/ayushchaudhary24/DSA/tree/master/1051-height-checker) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayushchaudhary24/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushchaudhary24/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/ayushchaudhary24/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -95,6 +96,7 @@
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayushchaudhary24/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -192,6 +194,7 @@
 | [0238-product-of-array-except-self](https://github.com/ayushchaudhary24/DSA/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayushchaudhary24/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayushchaudhary24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayushchaudhary24/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -277,6 +281,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushchaudhary24/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayushchaudhary24/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
