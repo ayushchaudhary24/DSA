@@ -116,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/ayushchaudhary24/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushchaudhary24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushchaudhary24/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushchaudhary24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
@@ -217,6 +218,7 @@
 | [0268-missing-number](https://github.com/ayushchaudhary24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchaudhary24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushchaudhary24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushchaudhary24/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushchaudhary24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -290,6 +292,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayushchaudhary24/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushchaudhary24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushchaudhary24/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
