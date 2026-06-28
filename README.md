@@ -53,6 +53,7 @@
 | [0739-daily-temperatures](https://github.com/ayushchaudhary24/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushchaudhary24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/ayushchaudhary24/DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/ayushchaudhary24/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchaudhary24/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -304,6 +305,7 @@
 | [0455-assign-cookies](https://github.com/ayushchaudhary24/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayushchaudhary24/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ayushchaudhary24/DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/ayushchaudhary24/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushchaudhary24/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
