@@ -14,7 +14,9 @@ public:
         }
         int j=0;
         int count =0;
-        while(idx<s.size() && j<g.size()){
+        int m = s.size();
+        int n = g.size();
+        while(idx<m && j<n){
             if(s[idx]>=g[j]){
                 count++;
                 j++;
