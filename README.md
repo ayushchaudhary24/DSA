@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/ayushchaudhary24/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushchaudhary24/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/ayushchaudhary24/DSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/ayushchaudhary24/DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -158,6 +159,7 @@
 | [0494-target-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ayushchaudhary24/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary24/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayushchaudhary24/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary24/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -331,6 +333,7 @@
 | [0064-minimum-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/ayushchaudhary24/DSA/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushchaudhary24/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayushchaudhary24/DSA/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushchaudhary24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -392,6 +395,7 @@
 | [0322-coin-change](https://github.com/ayushchaudhary24/DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/ayushchaudhary24/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushchaudhary24/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/ayushchaudhary24/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ayushchaudhary24/DSA/tree/master/0994-rotting-oranges) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayushchaudhary24/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushchaudhary24/DSA/tree/master/1971-find-if-path-exists-in-graph) |
